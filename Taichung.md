@@ -6,9 +6,11 @@
 
 📥Arrive at Taroko Park at **11PM**
 #### 🎈Taroko Park: 6 hours  
-- [Shakadang Trail 砂卡礑步道](https://www.google.com/maps/place/Shakadang+Trail/@24.1622069,121.6106231,16z/data=!4m6!3m5!1s0x34689b985a2388cf:0xdd64e8b10911fe28!8m2!3d24.1623323!4d121.613365!16s%2Fg%2F1tj1_8k7?entry=ttu) 3 Hours return  
+- [Shakadang Trail 砂卡礑步道](https://www.google.com/maps/place/Shakadang+Trail/@24.1622069,121.6106231,16z/data=!4m6!3m5!1s0x34689b985a2388cf:0xdd64e8b10911fe28!8m2!3d24.1623323!4d121.613365!16s%2Fg%2F1tj1_8k7?entry=ttu)  
+3 Hours return  
 Can park at [Shakadang Trail Parking 砂卡礑步道停車場](https://www.google.com/maps/place/Shakadang+Trail+Parking/@24.161663,121.6127812,17z/data=!4m6!3m5!1s0x3468832911151947:0x486a57b5a7256b70!8m2!3d24.1615975!4d121.6129982!16s%2Fg%2F11hdngbjgh?entry=ttu)  
 - [Changchun Shrine 長春祠](https://www.google.com/maps/place/Changchun+Shrine/@24.1613939,121.6044655,16z/data=!4m6!3m5!1s0x346882f3a5ef9ee9:0x220cca88a401de43!8m2!3d24.1604798!4d121.6036866!16s%2Fm%2F076w9r8?entry=ttu)  
+Can park at [Changchun Shrine Parking](https://www.google.com/maps/place/Changchun+Shrine+Parking/@24.1613939,121.6044655,16z/data=!4m14!1m7!3m6!1s0x346882f3a5ef9ee9:0x220cca88a401de43!2sChangchun+Shrine!8m2!3d24.1604798!4d121.6036866!16s%2Fm%2F076w9r8!3m5!1s0x34688383c730e157:0x2b39c24c38dd1463!8m2!3d24.162525!4d121.6045976!16s%2Fg%2F11q3m8z4xx?entry=ttu)  
 - [Changuang Temple 禪光寺](https://www.google.com/maps/place/Changuang+Temple/@24.159502,121.6033704,16.75z/data=!4m6!3m5!1s0x3468828d2c063039:0x7c9083300f9d0611!8m2!3d24.159292!4d121.6058535!16s%2Fg%2F1td406t3?entry=ttu)  
 - [Buluowan Terrace 布洛灣吊橋(山月吊橋)](https://www.google.com/maps/place/Buluowan+Terrace/@24.1734784,121.5659985,16.5z/data=!4m14!1m7!3m6!1s0x346882845fc2e7ef:0xddd9fd85e0b0aa31!2sTaroko+National+Park!8m2!3d24.1939246!4d121.4906668!16zL20vMDI1YzNs!3m5!1s0x34688306679bce5b:0x776edb282da5ca81!8m2!3d24.1730194!4d121.5699615!16s%2Fg%2F12j86mg1_?entry=ttu)  _Sencond furthest attraction_  
 - [Tunnel of Nine Turns 九曲洞](https://www.google.com/maps/place/Tunnel+of+Nine+Turns/@24.1716207,121.5261612,15.75z/data=!4m14!1m7!3m6!1s0x346882845fc2e7ef:0xddd9fd85e0b0aa31!2sTaroko+National+Park!8m2!3d24.1939246!4d121.4906668!16zL20vMDI1YzNs!3m5!1s0x3468849b7644de1f:0x4fa424dd84f551ac!8m2!3d24.1717158!4d121.5291839!16s%2Fg%2F1tf_qm4b?entry=ttu) _Furthest attraction from parking, have to access via bus_  
