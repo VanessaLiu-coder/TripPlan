@@ -20,7 +20,7 @@ $113 Without Window
 $137 With Window
 
 ## DAY 2
-Get up at **7AM**, have breakfast at hotel.
+Get up at **7AM**, have breakfast at hotel.  
 📤Check out at **8AM**
 
 📥 Max. 10 min to parking
