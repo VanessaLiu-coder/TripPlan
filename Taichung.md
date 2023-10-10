@@ -1,4 +1,4 @@
-## DAY 1
+## DAY 1 (02/12 Sat.)  
 
 📥Arrive at car rental place at **8:00AM**  
 📤Depart from car rental at **8:30AM**  
@@ -28,7 +28,7 @@ Can park at [Changchun Shrine Parking](https://www.google.com/maps/place/Changch
 $113 Without Window  
 $137 With Window
 
-## DAY 2
+## DAY 2 (03/12 Sun.)
 Get up at **7AM**, have breakfast at hotel.  
 📤Check out at **8AM**
 
@@ -68,7 +68,7 @@ If full go to [清境私人收費停車場](https://www.google.com/maps/place/%E
    - [Yidashao Wharf](https://www.google.com/maps/place/Yidashao+Wharf/@23.8496832,120.9283149,185m/data=!3m1!1e3!4m6!3m5!1s0x3468d5d8258e9079:0xe86b0affb90fd618!8m2!3d23.84974!4d120.92967!16s%2Fg%2F11f6155lxq?entry=ttu)  
  - TBD
 
-## DAY 3
+## DAY 3 (04/12 Mon.)
 
 📤Depart from Sun Moon Lake at **10AM**  
 🚗Sun Moon Lake -> Taichung: 1.5hours  
@@ -77,7 +77,7 @@ If full go to [清境私人收費停車場](https://www.google.com/maps/place/%E
 #### 🎈Taichung: 6 hours
 - Isolated from other attractions, need to visit by car individually  
   - [Rainbow Village](https://www.google.com/maps/place/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91/@24.1337201,120.6072688,1014m/data=!3m2!1e3!4b1!4m6!3m5!1s0x34693e87f82595db:0x9a8836cb8c007336!8m2!3d24.1337152!4d120.6098437!16s%2Fg%2F11cls6p_by?entry=ttu)  
-  - [Carton King Creative Park](https://www.google.com/maps/place/Carton+King+Creative+Park/@24.1781841,120.7364819,1013m/data=!3m2!1e3!4b1!4m6!3m5!1s0x34691846c6f84665:0xc6396f0974ae0c46!8m2!3d24.1781792!4d120.7390568!16s%2Fg%2F1tgcvt65?entry=ttu)  
+  - [Carton King Creative Park](https://www.google.com/maps/place/Carton+King+Creative+Park/@24.1781841,120.7364819,1013m/data=!3m2!1e3!4b1!4m6!3m5!1s0x34691846c6f84665:0xc6396f0974ae0c46!8m2!3d24.1781792!4d120.7390568!16s%2Fg%2F1tgcvt65?entry=ttu) (9AM–7PM)
 - Park at a lot that close to bike rental, and get to the below by bike  
   - [_Botanical Garden of National Museum of Nature Science_](https://www.google.com/maps/place/Botanical+Garden+of+National+Museum+of+Nature+Science/@24.1581206,120.6656028,1013m/data=!3m2!1e3!4b1!4m6!3m5!1s0x34693d78069134cb:0xd440a632b89ece36!8m2!3d24.1581157!4d120.6681777!16s%2Fg%2F155q0z00?entry=ttu)  
   - [Shen Ji New Village](https://www.google.com/maps/place/Shen+Ji+New+Village/@24.1446354,120.6597654,1014m/data=!3m2!1e3!4b1!4m6!3m5!1s0x34693dcc7e850e61:0xb9353172c42cfa58!8m2!3d24.1446305!4d120.6623403!16s%2Fg%2F11g2qr8g6r?entry=ttu)  
