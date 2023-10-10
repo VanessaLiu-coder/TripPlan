@@ -23,7 +23,7 @@ $137 With Window
 Get up at **7AM**, have breakfast at hotel.  
 📤Check out at **8AM**
 
-📥 Max. 10 min to parking
+📥 Max. 10 min to parking  
 [清境農場第四停車場](https://www.google.com/maps/@24.0590528,121.161468,17z/data=!3m1!4b1?entry=ttu) *Free but limited availability*  
 If full go to [清境私人收費停車場](https://www.google.com/maps/place/%E6%B8%85%E5%A2%83%E7%A7%81%E4%BA%BA%E6%94%B6%E8%B2%BB%E5%81%9C%E8%BB%8A%E5%A0%B4/@24.0556283,121.1588732,17z/data=!3m1!4b1!4m6!3m5!1s0x3468c3c1ff976a35:0x33c3b697ef887aad!8m2!3d24.0556283!4d121.1614428!16s%2Fg%2F11shwxgvz2?entry=ttu)
 
