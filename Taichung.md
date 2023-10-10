@@ -1,11 +1,11 @@
 ## DAY 1
 
-📥Arrive at car rental place at **8:30AM**  
-📤Depart from car rental at **9AM**  
-🚗 Taipei -> Taroko Park: 3 hours
+📥Arrive at car rental place at **8:00AM**  
+📤Depart from car rental at **8:30AM**  
+🚗 Taipei -> Taroko National Park Visitor Center: 2.5 hours
 
-📥Arrive at Taroko Park at **12PM**
-#### 🎈Taroko Park: 5 hours  
+📥Arrive at Taroko Park at **11PM**
+#### 🎈Taroko Park: 6 hours  
 - [Tunnel of Nine Turns 九曲洞](https://www.google.com/maps/place/Tunnel+of+Nine+Turns/@24.1716207,121.5261612,15.75z/data=!4m14!1m7!3m6!1s0x346882845fc2e7ef:0xddd9fd85e0b0aa31!2sTaroko+National+Park!8m2!3d24.1939246!4d121.4906668!16zL20vMDI1YzNs!3m5!1s0x3468849b7644de1f:0x4fa424dd84f551ac!8m2!3d24.1717158!4d121.5291839!16s%2Fg%2F1tf_qm4b?entry=ttu)  
 - [Buluowan Terrace 布洛灣吊橋(山月吊橋)](https://www.google.com/maps/place/Buluowan+Terrace/@24.1734784,121.5659985,16.5z/data=!4m14!1m7!3m6!1s0x346882845fc2e7ef:0xddd9fd85e0b0aa31!2sTaroko+National+Park!8m2!3d24.1939246!4d121.4906668!16zL20vMDI1YzNs!3m5!1s0x34688306679bce5b:0x776edb282da5ca81!8m2!3d24.1730194!4d121.5699615!16s%2Fg%2F12j86mg1_?entry=ttu)  
 - [Changchun Shrine 長春祠](https://www.google.com/maps/place/Changchun+Shrine/@24.1613939,121.6044655,16z/data=!4m6!3m5!1s0x346882f3a5ef9ee9:0x220cca88a401de43!8m2!3d24.1604798!4d121.6036866!16s%2Fm%2F076w9r8?entry=ttu)  
