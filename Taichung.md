@@ -49,28 +49,48 @@ If full go to [清境私人收費停車場](https://www.google.com/maps/place/%E
 📥Arrive at Sun Moon Lake at **1PM**
 
 #### 🎈Sun Moon Lake: 8 hours till bedtime
- - Cycling from Shuishe Pier - Heading West - 30 Mins one way  
-    Most stores open **7AM - 6PM**  
-   - [湖畔自行車道](https://www.google.com/maps/place/%E6%B9%96%E7%95%94%E8%87%AA%E8%A1%8C%E8%BB%8A%E9%81%93/@23.8665922,120.9008962,17z/data=!3m1!4b1!4m6!3m5!1s0x3468d604e08819f3:0xc3742bec1b93d677!8m2!3d23.8665922!4d120.9034765!16s%2Fg%2F11g81c4042?entry=ttu)  
-   - [日月潭環湖自行車道-木棧道](https://www.google.com/maps/place/%E6%97%A5%E6%9C%88%E6%BD%AD%E7%92%B0%E6%B9%96%E8%87%AA%E8%A1%8C%E8%BB%8A%E9%81%93-%E6%9C%A8%E6%A3%A7%E9%81%93/@23.8625514,120.9007105,17z/data=!3m1!4b1!4m6!3m5!1s0x3468d744752e7b5d:0x9a26f2e8ea2ac181!8m2!3d23.8625514!4d120.9032908!16s%2Fg%2F11t0w5jhpw?entry=ttu)  
-   - [向山自行車道](https://www.google.com/maps/place/%E5%90%91%E5%B1%B1%E8%87%AA%E8%A1%8C%E8%BB%8A%E9%81%93/@23.852374,120.8970546,17z/data=!4m6!3m5!1s0x3468d5fc02525133:0x3456f2c82594ff6a!8m2!3d23.8526875!4d120.9016907!16s%2Fg%2F11bbrkt1gf?entry=ttu)  
-   - [日月潭自行車步道](https://www.google.com/maps/place/%E6%97%A5%E6%9C%88%E6%BD%AD%E8%87%AA%E8%A1%8C%E8%BB%8A%E6%AD%A5%E9%81%93/@23.852374,120.8970546,17z/data=!3m1!4b1!4m6!3m5!1s0x3468d5fbff4d3aab:0x5c098864fc077fb0!8m2!3d23.8523741!4d120.9019202!16s%2Fg%2F11cn5x9b0d?entry=ttu)  
-   - Final destination: [薄山脊觀景亭](https://www.google.com/maps/place/%E8%96%84%E5%B1%B1%E8%84%8A%E8%A7%80%E6%99%AF%E4%BA%AD/@23.8372641,120.9049409,1759m/data=!3m1!1e3!4m6!3m5!1s0x3468d5607cc86a5f:0xe0560b8a878e807e!8m2!3d23.8361024!4d120.9079682!16s%2Fg%2F11h2btzvgn?entry=ttu)  
-  
- - Cycling from Shuishe Pier - Heading East - 20 Mins one way  
-   Most stores open **7AM - 6PM**  
-   - [水社自行車步道](https://www.google.com/maps/place/%E6%B0%B4%E7%A4%BE%E8%87%AA%E8%A1%8C%E8%BB%8A%E6%AD%A5%E9%81%93/@23.8703387,120.9178114,879m/data=!3m1!1e3!4m6!3m5!1s0x3468d614d283d74f:0x8dc8cf6b03a67cda!8m2!3d23.8720957!4d120.918627!16s%2Fg%2F11dxkb4vz8?entry=ttu)  
-   - [環湖自行車道](https://www.google.com/maps/place/%E7%92%B0%E6%B9%96%E8%87%AA%E8%A1%8C%E8%BB%8A%E9%81%93/@23.8659539,120.9180123,15z/data=!4m14!1m7!3m6!1s0x3468d604e08819f3:0xc3742bec1b93d677!2z5rmW55WU6Ieq6KGM6LuK6YGT!8m2!3d23.8665922!4d120.9034765!16s%2Fg%2F11g81c4042!3m5!1s0x3468d66a383a7ee7:0xb25e2d5503421946!8m2!3d23.8724524!4d120.9232206!16s%2Fg%2F11dyx9nrjv?entry=ttu)  
-   - [日月潭環潭自行車道](https://www.google.com/maps/place/%E6%97%A5%E6%9C%88%E6%BD%AD%E7%92%B0%E6%BD%AD%E8%87%AA%E8%A1%8C%E8%BB%8A%E9%81%93/@23.8504237,120.9112349,14.25z/data=!4m14!1m7!3m6!1s0x3468d604e08819f3:0xc3742bec1b93d677!2z5rmW55WU6Ieq6KGM6LuK6YGT!8m2!3d23.8665922!4d120.9034765!16s%2Fg%2F11g81c4042!3m5!1s0x3468d668be29ecd1:0x3f760550b36e88a6!8m2!3d23.8691704!4d120.9290252!16s%2Fg%2F11bbrgklwj?entry=ttu)  
-   - Final destination: [Wenwu Temple](https://www.google.com/maps/place/Wenwu+Temple/@23.8663208,120.9183049,2957m/data=!3m1!1e3!4m6!3m5!1s0x3468d668e2f4582b:0xfd1f9cd4796180f0!8m2!3d23.8699678!4d120.9275511!16s%2Fm%2F011l1nwr?entry=ttu)
-   
- - Taking boat (3 destinations with 20 mins interval)  
+
+🅿 [Shuishe Parking](https://maps.app.goo.gl/iZZebWb9D1HK4eBC7)  
+🚶‍♀️ Parking -> Restaurant: 5 mins  
+🍖 [日月潭新山味 邵族風味餐廳](https://maps.app.goo.gl/pSvybtS3mCjPBZDp7)  
+
+🚲 Cycling from Shuishe Pier - Heading West: 2 Hours  
+  - [湖畔自行車道](https://www.google.com/maps/place/%E6%B9%96%E7%95%94%E8%87%AA%E8%A1%8C%E8%BB%8A%E9%81%93/@23.8665922,120.9008962,17z/data=!3m1!4b1!4m6!3m5!1s0x3468d604e08819f3:0xc3742bec1b93d677!8m2!3d23.8665922!4d120.9034765!16s%2Fg%2F11g81c4042?entry=ttu)  
+  - [日月潭環湖自行車道-木棧道](https://www.google.com/maps/place/%E6%97%A5%E6%9C%88%E6%BD%AD%E7%92%B0%E6%B9%96%E8%87%AA%E8%A1%8C%E8%BB%8A%E9%81%93-%E6%9C%A8%E6%A3%A7%E9%81%93/@23.8625514,120.9007105,17z/data=!3m1!4b1!4m6!3m5!1s0x3468d744752e7b5d:0x9a26f2e8ea2ac181!8m2!3d23.8625514!4d120.9032908!16s%2Fg%2F11t0w5jhpw?entry=ttu)  
+  - [向山自行車道](https://www.google.com/maps/place/%E5%90%91%E5%B1%B1%E8%87%AA%E8%A1%8C%E8%BB%8A%E9%81%93/@23.852374,120.8970546,17z/data=!4m6!3m5!1s0x3468d5fc02525133:0x3456f2c82594ff6a!8m2!3d23.8526875!4d120.9016907!16s%2Fg%2F11bbrkt1gf?entry=ttu)  
+  - [日月潭自行車步道](https://www.google.com/maps/place/%E6%97%A5%E6%9C%88%E6%BD%AD%E8%87%AA%E8%A1%8C%E8%BB%8A%E6%AD%A5%E9%81%93/@23.852374,120.8970546,17z/data=!3m1!4b1!4m6!3m5!1s0x3468d5fbff4d3aab:0x5c098864fc077fb0!8m2!3d23.8523741!4d120.9019202!16s%2Fg%2F11cn5x9b0d?entry=ttu)  
+  - Final destination: [薄山脊觀景亭](https://www.google.com/maps/place/%E8%96%84%E5%B1%B1%E8%84%8A%E8%A7%80%E6%99%AF%E4%BA%AD/@23.8372641,120.9049409,1759m/data=!3m1!1e3!4m6!3m5!1s0x3468d5607cc86a5f:0xe0560b8a878e807e!8m2!3d23.8361024!4d120.9079682!16s%2Fg%2F11h2btzvgn?entry=ttu)  
+
+🚗 Shuishe Parking -> Wenwu Temple: 5 mins  
+🎈 [Wenwu Temple](https://www.google.com/maps/place/Wenwu+Temple/@23.8663208,120.9183049,2957m/data=!3m1!1e3!4m6!3m5!1s0x3468d668e2f4582b:0xfd1f9cd4796180f0!8m2!3d23.8699678!4d120.9275511!16s%2Fm%2F011l1nwr?entry=ttu)  
+
+🚗 Wenwu Temple -> [Frog Trail](https://maps.app.goo.gl/KsMpAq4W45WaxpnR8): 15 mins  
+🎈 [Nine Frogs Stack](https://maps.app.goo.gl/8dTBL8XCrmQb7LLC8)  
+
+🚗 Frog Trail -> Hotel: 5 mins  
+🛌 [Sun Moon Lake Waterfront (Shuian) Resort Hotel](https://maps.app.goo.gl/Z7bFfZFsyBo7hvYr7)  
+  Deluxe Double Room with Balcony and Sea View - AUD 225 || **Free Parking**  
+  Check-in from 15:00 to 22:00  
+  Check-out until 11:00
+
+🍖 Street Food  
+
+
+> - Cycling from Shuishe Pier - Heading East - 20 Mins one way  
+>   Most stores open **7AM - 6PM**  
+>   - [水社自行車步道](https://www.google.com/maps/place/%E6%B0%B4%E7%A4%BE%E8%87%AA%E8%A1%8C%E8%BB%8A%E6%AD%A5%E9%81%93/@23.8703387,120.9178114,879m/data=!3m1!1e3!4m6!3m5!1s0x3468d614d283d74f:0x8dc8cf6b03a67cda!8m2!3d23.8720957!4d120.918627!16s%2Fg%2F11dxkb4vz8?entry=ttu)  
+>   - [環湖自行車道](https://www.google.com/maps/place/%E7%92%B0%E6%B9%96%E8%87%AA%E8%A1%8C%E8%BB%8A%E9%81%93/@23.8659539,120.9180123,15z/data=!4m14!1m7!3m6!1s0x3468d604e08819f3:0xc3742bec1b93d677!2z5rmW55WU6Ieq6KGM6LuK6YGT!8m2!3d23.8665922!4d120.9034765!16s%2Fg%2F11g81c4042!3m5!1s0x3468d66a383a7ee7:0xb25e2d5503421946!8m2!3d23.8724524!4d120.9232206!16s%2Fg%2F11dyx9nrjv?entry=ttu)  
+>   - [日月潭環潭自行車道](https://www.google.com/maps/place/%E6%97%A5%E6%9C%88%E6%BD%AD%E7%92%B0%E6%BD%AD%E8%87%AA%E8%A1%8C%E8%BB%8A%E9%81%93/@23.8504237,120.9112349,14.25z/data=!4m14!1m7!3m6!1s0x3468d604e08819f3:0xc3742bec1b93d677!2z5rmW55WU6Ieq6KGM6LuK6YGT!8m2!3d23.8665922!4d120.9034765!16s%2Fg%2F11g81c4042!3m5!1s0x3468d668be29ecd1:0x3f760550b36e88a6!8m2!3d23.8691704!4d120.9290252!16s%2Fg%2F11bbrgklwj?entry=ttu)  
+>   - Final destination: [Wenwu Temple](https://www.google.com/maps/place/Wenwu+Temple/@23.8663208,120.9183049,2957m/data=!3m1!1e3!4m6!3m5!1s0x3468d668e2f4582b:0xfd1f9cd4796180f0!8m2!3d23.8699678!4d120.9275511!16s%2Fm%2F011l1nwr?entry=ttu)  
+>  
+> - Taking boat (3 destinations with 20 mins interval)  
  1st ferry 9:00am; Last ferry 5:00pm  
  Route: Shuishe Pier → Xuanguang Temple Pier → Ita Thao Pier → Shuishe Pier  
-   - [Shuishe Pier](https://www.google.com/maps/place/Shuishe+Pier/@23.8642383,120.9100815,370m/data=!3m1!1e3!4m6!3m5!1s0x3468d60e69b75dbb:0x85d0af32b950269a!8m2!3d23.8645269!4d120.9117702!16s%2Fg%2F11ghnfrmx_?entry=ttu)  
-   - [Xuanguang Wharf](https://www.google.com/maps/place/Xuanguang+Wharf/@23.8527751,120.9124718,261m/data=!3m1!1e3!4m6!3m5!1s0x3468d5e181be37d3:0xa79f94edc19821c5!8m2!3d23.85267!4d120.91331!16s%2Fg%2F1tj7bsww?entry=ttu)  
-   - [Yidashao Wharf](https://www.google.com/maps/place/Yidashao+Wharf/@23.8496832,120.9283149,185m/data=!3m1!1e3!4m6!3m5!1s0x3468d5d8258e9079:0xe86b0affb90fd618!8m2!3d23.84974!4d120.92967!16s%2Fg%2F11f6155lxq?entry=ttu)  
- - TBD
+>   - [Shuishe Pier](https://www.google.com/maps/place/Shuishe+Pier/@23.8642383,120.9100815,370m/data=!3m1!1e3!4m6!3m5!1s0x3468d60e69b75dbb:0x85d0af32b950269a!8m2!3d23.8645269!4d120.9117702!16s%2Fg%2F11ghnfrmx_?entry=ttu)  
+>   - [Xuanguang Wharf](https://www.google.com/maps/place/Xuanguang+Wharf/@23.8527751,120.9124718,261m/data=!3m1!1e3!4m6!3m5!1s0x3468d5e181be37d3:0xa79f94edc19821c5!8m2!3d23.85267!4d120.91331!16s%2Fg%2F1tj7bsww?entry=ttu)  
+>   - [Yidashao Wharf](https://www.google.com/maps/place/Yidashao+Wharf/@23.8496832,120.9283149,185m/data=!3m1!1e3!4m6!3m5!1s0x3468d5d8258e9079:0xe86b0affb90fd618!8m2!3d23.84974!4d120.92967!16s%2Fg%2F11f6155lxq?entry=ttu)  
+
+
 
 ## DAY 3 (04/12 Mon.)
 
