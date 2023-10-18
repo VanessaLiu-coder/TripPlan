@@ -68,8 +68,8 @@ If full go to [清境私人收費停車場](https://www.google.com/maps/place/%E
 🎈 [Nine Frogs Stack](https://maps.app.goo.gl/8dTBL8XCrmQb7LLC8)  
 
 🚗 Frog Trail -> Hotel: 5 mins  
-🛌 [Sun Moon Lake Waterfront (Shuian) Resort Hotel](https://maps.app.goo.gl/Z7bFfZFsyBo7hvYr7)  
-  Deluxe Double Room with Balcony and Sea View - AUD 225 || **Free Parking**  
+🛌 [Sun Moon Lake Waterfront (Shuian) Resort Hotel](https://maps.app.goo.gl/Z7bFfZFsyBo7hvYr7)|| **Free Parking**  
+  Deluxe Double Room with Balcony and Sea View - AUD 225  
   Check-in from 15:00 to 22:00  
   Check-out until 11:00
 
