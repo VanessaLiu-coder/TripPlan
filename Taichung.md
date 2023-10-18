@@ -16,17 +16,10 @@ Can park at [Changchun Shrine Parking](https://www.google.com/maps/place/Changch
 - [Tunnel of Nine Turns 九曲洞](https://www.google.com/maps/place/Tunnel+of+Nine+Turns/@24.1716207,121.5261612,15.75z/data=!4m14!1m7!3m6!1s0x346882845fc2e7ef:0xddd9fd85e0b0aa31!2sTaroko+National+Park!8m2!3d24.1939246!4d121.4906668!16zL20vMDI1YzNs!3m5!1s0x3468849b7644de1f:0x4fa424dd84f551ac!8m2!3d24.1717158!4d121.5291839!16s%2Fg%2F1tf_qm4b?entry=ttu) _Furthest attraction from parking, have to access via bus_  
 
 📤Depart from Taroko Park at **5PM**  
-🚗 Taroko Park -> Farm: 2.5 hours
+🚗 Taroko Park -> Farm: 2.5 hours  
 📥Arrive at Hotel at **7:30PM**  
 🛌+🍖 [山行旅火鍋城](https://www.agoda.com/en-gb/mountaintraveler_2/hotel/nantou-tw.html?finalPriceView=2&isShowMobileAppPrice=false&cid=1833981&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2023-12-2&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=AUD&isFreeOccSearch=false&isCityHaveAsq=false&los=1&searchrequestid=89323be9-e0d4-432a-9f10-3fbdf9e7ac51) $137  
 
-> **Option1:**
-🛌[Shiyai Taoyuan](https://www.booking.com/hotel/tw/cingjing-shiwai-taoyuan.en-gb.html?aid=2127514&label=metagha-link-MRAU-hotel-2768421_dev-desktop_los-1_bw-54_dow-Saturday_defdate-0_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20231202&sid=77cf30ceaaee76cd1bb555e70df9bd71&all_sr_blocks=68420306_380188025_0_1_0;checkin=2023-12-02;checkout=2023-12-03;dest_id=900051920;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;highlighted_blocks=68420306_380188025_0_1_0;hpos=1;matching_block_id=68420306_380188025_0_1_0;no_rooms=1;req_adults=2;req_children=0;room1=A%2CA;sb_price_type=total;sr_order=popularity;sr_pri_blocks=68420306_380188025_0_1_0__450100;srepoch=1696893646;srpvid=ca3ba3df7db10061;type=total;ucfs=1&#hotelTmpl) ($239, Great view, Latest check-in **8PM**)  
-🍖[春大地火鍋城](https://www.google.com/maps/place/%E6%98%A5%E5%A4%A7%E5%9C%B0%E7%81%AB%E9%8D%8B%E5%9F%8E/@24.0382511,121.1558023,17z/data=!3m1!4b1!4m6!3m5!1s0x3468c21779c18721:0x1ce2d6a913db9893!8m2!3d24.0382511!4d121.1583772!16s%2Fg%2F11c6qmdq_f?entry=ttu) (Close at **10 PM**)
-
-
-$113 Without Window  
- With Window
 
 ## DAY 2 (03/12 Sun.)
 Get up at **7AM**, have breakfast at hotel.  
