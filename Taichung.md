@@ -17,16 +17,16 @@ Can park at [Changchun Shrine Parking](https://www.google.com/maps/place/Changch
 
 📤Depart from Taroko Park at **5PM**  
 🚗 Taroko Park -> Farm: 2.5 hours
+📥Arrive at Hotel at **7:30PM**  
+🛌+🍖 [山行旅火鍋城](https://www.agoda.com/en-gb/mountaintraveler_2/hotel/nantou-tw.html?finalPriceView=2&isShowMobileAppPrice=false&cid=1833981&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2023-12-2&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=AUD&isFreeOccSearch=false&isCityHaveAsq=false&los=1&searchrequestid=89323be9-e0d4-432a-9f10-3fbdf9e7ac51) $137  
 
-🛌+🍖Dinner & Hotel at **7:30PM**
 > **Option1:**
 🛌[Shiyai Taoyuan](https://www.booking.com/hotel/tw/cingjing-shiwai-taoyuan.en-gb.html?aid=2127514&label=metagha-link-MRAU-hotel-2768421_dev-desktop_los-1_bw-54_dow-Saturday_defdate-0_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20231202&sid=77cf30ceaaee76cd1bb555e70df9bd71&all_sr_blocks=68420306_380188025_0_1_0;checkin=2023-12-02;checkout=2023-12-03;dest_id=900051920;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;highlighted_blocks=68420306_380188025_0_1_0;hpos=1;matching_block_id=68420306_380188025_0_1_0;no_rooms=1;req_adults=2;req_children=0;room1=A%2CA;sb_price_type=total;sr_order=popularity;sr_pri_blocks=68420306_380188025_0_1_0__450100;srepoch=1696893646;srpvid=ca3ba3df7db10061;type=total;ucfs=1&#hotelTmpl) ($239, Great view, Latest check-in **8PM**)  
 🍖[春大地火鍋城](https://www.google.com/maps/place/%E6%98%A5%E5%A4%A7%E5%9C%B0%E7%81%AB%E9%8D%8B%E5%9F%8E/@24.0382511,121.1558023,17z/data=!3m1!4b1!4m6!3m5!1s0x3468c21779c18721:0x1ce2d6a913db9893!8m2!3d24.0382511!4d121.1583772!16s%2Fg%2F11c6qmdq_f?entry=ttu) (Close at **10 PM**)
->
->**Option2:**
-🛌+🍖 [山行旅火鍋城](https://www.agoda.com/en-gb/mountaintraveler_2/hotel/nantou-tw.html?finalPriceView=2&isShowMobileAppPrice=false&cid=1833981&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2023-12-2&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=AUD&isFreeOccSearch=false&isCityHaveAsq=false&los=1&searchrequestid=89323be9-e0d4-432a-9f10-3fbdf9e7ac51)  
+
+
 $113 Without Window  
-$137 With Window
+ With Window
 
 ## DAY 2 (03/12 Sun.)
 Get up at **7AM**, have breakfast at hotel.  
@@ -68,7 +68,8 @@ If full go to [清境私人收費停車場](https://www.google.com/maps/place/%E
 🎈 [Nine Frogs Stack](https://maps.app.goo.gl/8dTBL8XCrmQb7LLC8)  
 
 🚗 Frog Trail -> Hotel: 5 mins  
-📥Arrive at Sun Moon Lake at **5PM-8PM**  
+📥Arrive at Hotel at **5PM-8PM**  
+
 🛌 [Sun Moon Lake Waterfront (Shuian) Resort Hotel](https://maps.app.goo.gl/Z7bFfZFsyBo7hvYr7) **Free Parking**  
   Deluxe Double Room with Balcony and Sea View - AUD 225  
   Check-in from 15:00 to 22:00  
