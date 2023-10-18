@@ -5,7 +5,7 @@
 🚗 Taipei -> Taroko National Park Visitor Center: 2.5 hours
 
 📥Arrive at Taroko Park at **11PM**
-#### 🎈Taroko Park: 6 hours  
+### 🎈Taroko Park: 6 hours  
 - [Shakadang Trail 砂卡礑步道](https://www.google.com/maps/place/Shakadang+Trail/@24.1622069,121.6106231,16z/data=!4m6!3m5!1s0x34689b985a2388cf:0xdd64e8b10911fe28!8m2!3d24.1623323!4d121.613365!16s%2Fg%2F1tj1_8k7?entry=ttu)  
 3 Hours return  
 Can park at [Shakadang Trail Parking 砂卡礑步道停車場](https://www.google.com/maps/place/Shakadang+Trail+Parking/@24.161663,121.6127812,17z/data=!4m6!3m5!1s0x3468832911151947:0x486a57b5a7256b70!8m2!3d24.1615975!4d121.6129982!16s%2Fg%2F11hdngbjgh?entry=ttu)  
@@ -36,7 +36,7 @@ Get up at **7AM**, have breakfast at hotel.
 [清境農場第四停車場](https://www.google.com/maps/@24.0590528,121.161468,17z/data=!3m1!4b1?entry=ttu) *Free but limited availability*  
 If full go to [清境私人收費停車場](https://www.google.com/maps/place/%E6%B8%85%E5%A2%83%E7%A7%81%E4%BA%BA%E6%94%B6%E8%B2%BB%E5%81%9C%E8%BB%8A%E5%A0%B4/@24.0556283,121.1588732,17z/data=!3m1!4b1!4m6!3m5!1s0x3468c3c1ff976a35:0x33c3b697ef887aad!8m2!3d24.0556283!4d121.1614428!16s%2Fg%2F11shwxgvz2?entry=ttu)
 
-#### 🎈Qingjing Farm: 3 Hours [MAP](https://trevallog.com/wp-content/uploads/2016/01/cingjing-area-map-english-735x1525.jpg)
+### 🎈Qingjing Farm: 3 Hours [MAP](https://trevallog.com/wp-content/uploads/2016/01/cingjing-area-map-english-735x1525.jpg)
 
 - 6.499-Step Trail: 30 mins
 - Sheep/Horsemanship show: 30 mins
@@ -48,13 +48,13 @@ If full go to [清境私人收費停車場](https://www.google.com/maps/place/%E
 🚗Qingjing Farm->Sun Moon Lake: 1hr 40min  
 📥Arrive at Sun Moon Lake at **1PM**
 
-#### 🎈Sun Moon Lake: 8 hours till bedtime
+### 🎈Sun Moon Lake: 8 hours till bedtime
 
 🅿 [Shuishe Parking](https://maps.app.goo.gl/iZZebWb9D1HK4eBC7)  
 🚶‍♀️ Parking -> Restaurant: 5 mins  
 🍖 [日月潭新山味 邵族風味餐廳](https://maps.app.goo.gl/pSvybtS3mCjPBZDp7)  
 
-🚲 Cycling from Shuishe Pier - Heading West: 2 Hours  
+#### 🚲 Cycling from Shuishe Pier - Heading West: 2 Hours  
   - [湖畔自行車道](https://www.google.com/maps/place/%E6%B9%96%E7%95%94%E8%87%AA%E8%A1%8C%E8%BB%8A%E9%81%93/@23.8665922,120.9008962,17z/data=!3m1!4b1!4m6!3m5!1s0x3468d604e08819f3:0xc3742bec1b93d677!8m2!3d23.8665922!4d120.9034765!16s%2Fg%2F11g81c4042?entry=ttu)  
   - [日月潭環湖自行車道-木棧道](https://www.google.com/maps/place/%E6%97%A5%E6%9C%88%E6%BD%AD%E7%92%B0%E6%B9%96%E8%87%AA%E8%A1%8C%E8%BB%8A%E9%81%93-%E6%9C%A8%E6%A3%A7%E9%81%93/@23.8625514,120.9007105,17z/data=!3m1!4b1!4m6!3m5!1s0x3468d744752e7b5d:0x9a26f2e8ea2ac181!8m2!3d23.8625514!4d120.9032908!16s%2Fg%2F11t0w5jhpw?entry=ttu)  
   - [向山自行車道](https://www.google.com/maps/place/%E5%90%91%E5%B1%B1%E8%87%AA%E8%A1%8C%E8%BB%8A%E9%81%93/@23.852374,120.8970546,17z/data=!4m6!3m5!1s0x3468d5fc02525133:0x3456f2c82594ff6a!8m2!3d23.8526875!4d120.9016907!16s%2Fg%2F11bbrkt1gf?entry=ttu)  
@@ -68,7 +68,8 @@ If full go to [清境私人收費停車場](https://www.google.com/maps/place/%E
 🎈 [Nine Frogs Stack](https://maps.app.goo.gl/8dTBL8XCrmQb7LLC8)  
 
 🚗 Frog Trail -> Hotel: 5 mins  
-🛌 [Sun Moon Lake Waterfront (Shuian) Resort Hotel](https://maps.app.goo.gl/Z7bFfZFsyBo7hvYr7)|| **Free Parking**  
+📥Arrive at Sun Moon Lake at **5PM-8PM**  
+🛌 [Sun Moon Lake Waterfront (Shuian) Resort Hotel](https://maps.app.goo.gl/Z7bFfZFsyBo7hvYr7) **Free Parking**  
   Deluxe Double Room with Balcony and Sea View - AUD 225  
   Check-in from 15:00 to 22:00  
   Check-out until 11:00
@@ -98,7 +99,7 @@ If full go to [清境私人收費停車場](https://www.google.com/maps/place/%E
 🚗Sun Moon Lake -> Taichung: 1.5hours  
 📥Arrive in Taichung at **11:30PM** 
 
-#### 🎈Taichung: 6 hours
+### 🎈Taichung: 6 hours
 - Isolated from other attractions, need to visit by car individually  
   - [Rainbow Village](https://www.google.com/maps/place/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91/@24.1337201,120.6072688,1014m/data=!3m2!1e3!4b1!4m6!3m5!1s0x34693e87f82595db:0x9a8836cb8c007336!8m2!3d24.1337152!4d120.6098437!16s%2Fg%2F11cls6p_by?entry=ttu)  
   - [Carton King Creative Park](https://www.google.com/maps/place/Carton+King+Creative+Park/@24.1781841,120.7364819,1013m/data=!3m2!1e3!4b1!4m6!3m5!1s0x34691846c6f84665:0xc6396f0974ae0c46!8m2!3d24.1781792!4d120.7390568!16s%2Fg%2F1tgcvt65?entry=ttu) (9AM–7PM)
