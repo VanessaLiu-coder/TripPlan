@@ -95,7 +95,9 @@ If full go to [清境私人收費停車場](https://www.google.com/maps/place/%E
 
 ### 🎈Taichung: 6 hours
 - Isolated from other attractions, need to visit by car individually  
-  - [Rainbow Village](https://www.google.com/maps/place/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91/@24.1337201,120.6072688,1014m/data=!3m2!1e3!4b1!4m6!3m5!1s0x34693e87f82595db:0x9a8836cb8c007336!8m2!3d24.1337152!4d120.6098437!16s%2Fg%2F11cls6p_by?entry=ttu)  
+  - [Rainbow Village](https://www.google.com/maps/place/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91/@24.1337201,120.6072688,1014m/data=!3m2!1e3!4b1!4m6!3m5!1s0x34693e87f82595db:0x9a8836cb8c007336!8m2!3d24.1337152!4d120.6098437!16s%2Fg%2F11cls6p_by?entry=ttu)
+  - [Dakeng Hiking trail](https://travel.taichung.gov.tw/zh-tw/attractions/intro/419)
+  - [Temple](https://travel.taichung.gov.tw/zh-tw/attractions/intro/1455)  
   - [Carton King Creative Park](https://www.google.com/maps/place/Carton+King+Creative+Park/@24.1781841,120.7364819,1013m/data=!3m2!1e3!4b1!4m6!3m5!1s0x34691846c6f84665:0xc6396f0974ae0c46!8m2!3d24.1781792!4d120.7390568!16s%2Fg%2F1tgcvt65?entry=ttu) (9AM–7PM)
 - Park at a lot that close to bike rental, and get to the below by bike  
   - [_Botanical Garden of National Museum of Nature Science_](https://www.google.com/maps/place/Botanical+Garden+of+National+Museum+of+Nature+Science/@24.1581206,120.6656028,1013m/data=!3m2!1e3!4b1!4m6!3m5!1s0x34693d78069134cb:0xd440a632b89ece36!8m2!3d24.1581157!4d120.6681777!16s%2Fg%2F155q0z00?entry=ttu)  
