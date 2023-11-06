@@ -18,4 +18,19 @@
 - [Taipei 101 Shopping center 台北101購物中心](https://www.google.com/maps/place/Taipei+101+Shopping+center/@25.0452652,121.5339144,14z/data=!4m6!3m5!1s0x3442abb6da80a7ad:0xacc4d11dc963103c!8m2!3d25.0341222!4d121.5640212!16s%2Fg%2F11fx91ft3n?entry=ttu)
 - 
 
+# By District  
+## [Beitou](https://maps.app.goo.gl/YzrqWTFDogocUR2X8)  
+🎈[Yangmingshan National Park 陽明山國家公園](https://maps.app.goo.gl/F4yxig9Ng3F3LA8bA) Hiking Trail  
+🎈[Taipei Public Library Beitou Branch](https://maps.app.goo.gl/zAWJJCaYJCKRHr6x6)  
+🎈[Xinbeitou Historic Station 新北投車站](https://maps.app.goo.gl/E32dt7JwqprH7k3b7)  
+🎈[Beitou Hot Spring Museum 北投溫泉博物館](https://maps.app.goo.gl/dMEXg19WDt7TJxo18)  
+♨[Grand View Resort Beitou Hotel北投麗禧溫泉酒店](https://maps.app.goo.gl/mgTPK6Dqm13YUoHi7) Booking Needed  
+🎈[Four Season Lookout 四季長廊觀景台](https://maps.app.goo.gl/CaexSvWxtAngLYek8) Lookout with great night view  
+
+## [Shilin](https://maps.app.goo.gl/vJfwERFeZDJe2uP26)  
+🚗[Car leasing store 捷豹租車](https://maps.app.goo.gl/ATTxLgS4emi2LMbK6) 8AM-9PM  
+🛌[芝山璞旅 Archess Hotel](https://maps.app.goo.gl/4JosFooBH4eo4Q6q8)  
+  1 mins to the car leasing store, close to bus stop.  
+🍤[Shilin Night Market 士林夜市](https://maps.app.goo.gl/Raz3j4zAZL8Mxc7R9)  
+🎈[National Palace Museum 國立故宮博物院](https://maps.app.goo.gl/RL6j1jArveFAefy77) 9AM-5PM  
 
