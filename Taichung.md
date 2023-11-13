@@ -18,7 +18,8 @@ Can park at [Changchun Shrine Parking](https://www.google.com/maps/place/Changch
 📤Depart from Taroko Park at **5PM**  
 🚗 Taroko Park -> Farm: 2.5 hours  
 📥Arrive at Hotel at **7:30PM**  
-🛌+🍖 [山行旅火鍋城](https://www.agoda.com/en-gb/mountaintraveler_2/hotel/nantou-tw.html?finalPriceView=2&isShowMobileAppPrice=false&cid=1833981&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2023-12-2&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=AUD&isFreeOccSearch=false&isCityHaveAsq=false&los=1&searchrequestid=89323be9-e0d4-432a-9f10-3fbdf9e7ac51) $137  
+🛌+🍖 [山行旅火鍋城](https://www.agoda.com/en-gb/mountaintraveler_2/hotel/nantou-tw.html?finalPriceView=2&isShowMobileAppPrice=false&cid=1833981&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2023-12-2&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=AUD&isFreeOccSearch=false&isCityHaveAsq=false&los=1&searchrequestid=89323be9-e0d4-432a-9f10-3fbdf9e7ac51) Hotpot close at 9 PM  
+Staying: $137  
 
 
 ## DAY 2 (03/12 Sun.)
