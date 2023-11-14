@@ -21,8 +21,8 @@ Can park at [Changchun Shrine Parking](https://www.google.com/maps/place/Changch
 📤Depart from Taroko Park at **5PM**  
 🚗 Taroko Park -> Farm: 2.5 hours  
 📥Arrive at Hotel at **7:30PM**  
-🛌+🍖 [山行旅火鍋城](https://www.agoda.com/en-gb/mountaintraveler_2/hotel/nantou-tw.html?finalPriceView=2&isShowMobileAppPrice=false&cid=1833981&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2023-12-2&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=AUD&isFreeOccSearch=false&isCityHaveAsq=false&los=1&searchrequestid=89323be9-e0d4-432a-9f10-3fbdf9e7ac51) Hotpot close at 9 PM  
-Staying: $137  
+🛌+🍖 [山行旅火鍋城](https://www.agoda.com/en-gb/mountaintraveler_2/hotel/nantou-tw.html?finalPriceView=2&isShowMobileAppPrice=false&cid=1833981&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2023-12-2&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=AUD&isFreeOccSearch=false&isCityHaveAsq=false&los=1&searchrequestid=89323be9-e0d4-432a-9f10-3fbdf9e7ac51) **Hotpot close at 9 PM**  
+Staying: $138
 
 
 ## DAY 2 (03/12 Sun.)
@@ -36,8 +36,8 @@ If full go to [清境私人收費停車場](https://www.google.com/maps/place/%E
 ### 🎈Qingjing Farm: 3 Hours [MAP](https://trevallog.com/wp-content/uploads/2016/01/cingjing-area-map-english-735x1525.jpg)
 
 - 6.499-Step Trail: 30 mins
-- Sheep/Horsemanship show: 30 mins
-- 7.Guanshan Trail: 50 mins
+- Sheep/Horsemanship show: 30 mins 
+- 7.Guanshan Trail: 50 mins (Must go for photo with sheep)
 - 8.Great Wall Trail: 10 mins
 - Skywalk: 20 mins
 
@@ -100,11 +100,11 @@ If full go to [清境私人收費停車場](https://www.google.com/maps/place/%E
 ### 🎈Taichung: 6 hours
 - Isolated from other attractions, need to visit by car individually  
   - [Rainbow Village](https://www.google.com/maps/place/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91/@24.1337201,120.6072688,1014m/data=!3m2!1e3!4b1!4m6!3m5!1s0x34693e87f82595db:0x9a8836cb8c007336!8m2!3d24.1337152!4d120.6098437!16s%2Fg%2F11cls6p_by?entry=ttu)
-  - [Dakeng Hiking trail](https://travel.taichung.gov.tw/zh-tw/attractions/intro/419)
-  - [Temple](https://travel.taichung.gov.tw/zh-tw/attractions/intro/1455)  
+  - [Dakeng Hiking trail](https://maps.app.goo.gl/TdKvbgkTVEA8cDSo7) 
+  - [Baiyang Holy Temple白陽聖廟](https://maps.app.goo.gl/mmsHHXDhnAqEr4HJ8)(9AM–7PM)    
   - [Carton King Creative Park](https://www.google.com/maps/place/Carton+King+Creative+Park/@24.1781841,120.7364819,1013m/data=!3m2!1e3!4b1!4m6!3m5!1s0x34691846c6f84665:0xc6396f0974ae0c46!8m2!3d24.1781792!4d120.7390568!16s%2Fg%2F1tgcvt65?entry=ttu) (9AM–7PM)
-- Park at a lot that close to bike rental, and get to the below by bike  
-  - [_Botanical Garden of National Museum of Nature Science_](https://www.google.com/maps/place/Botanical+Garden+of+National+Museum+of+Nature+Science/@24.1581206,120.6656028,1013m/data=!3m2!1e3!4b1!4m6!3m5!1s0x34693d78069134cb:0xd440a632b89ece36!8m2!3d24.1581157!4d120.6681777!16s%2Fg%2F155q0z00?entry=ttu)  
+- Park at a lot that close to bike rental, and get to the below by bike(Can arrange a day trip for below places)  
+  - [Botanical Garden of National Museum of Nature Science](https://www.google.com/maps/place/Botanical+Garden+of+National+Museum+of+Nature+Science/@24.1581206,120.6656028,1013m/data=!3m2!1e3!4b1!4m6!3m5!1s0x34693d78069134cb:0xd440a632b89ece36!8m2!3d24.1581157!4d120.6681777!16s%2Fg%2F155q0z00?entry=ttu)  
   - [Shen Ji New Village](https://www.google.com/maps/place/Shen+Ji+New+Village/@24.1446354,120.6597654,1014m/data=!3m2!1e3!4b1!4m6!3m5!1s0x34693dcc7e850e61:0xb9353172c42cfa58!8m2!3d24.1446305!4d120.6623403!16s%2Fg%2F11g2qr8g6r?entry=ttu)  
   - [Painted Animation Lane](https://www.google.com/maps/place/Painted+Animation+Lane/@24.1383556,120.6678707,1014m/data=!3m2!1e3!4b1!4m6!3m5!1s0x34693d095d59f337:0x3f1324595b71954c!8m2!3d24.1383507!4d120.6704456!16s%2Fg%2F11b7hytqvx?entry=ttu)  
   - [Miyahara](https://www.google.com/maps/place/Miyahara/@24.1378327,120.6809803,1014m/data=!3m3!1e3!4b1!5s0x34693d147a1b38c3:0xab27197e886f0628!4m6!3m5!1s0x346e90a75d09b2f9:0x46f404b3540f5b06!8m2!3d24.1378278!4d120.6835552!16s%2Fg%2F11cn2_fp_1?entry=ttu) (10AM - 9PM)  
