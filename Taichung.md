@@ -2,8 +2,9 @@
 Lease car and go to Taroko on the day Vanessa gets to Taiwan  
 Need to book hotel in Taroko for this Day 0 plan  
 #### Accomadation options: 
-- [太魯閣研海泊渡假別墅 Taroko Yan Hai Bo Villa](https://maps.app.goo.gl/i9LtATgvPCJi6eez6)$223  
-- [煙波花蓮太魯閣 沁海館 Lakeshore Hotel Hualien Taroko](https://maps.app.goo.gl/CRSURxhv953zv47j8)$280  
+- [太魯閣研海泊渡假別墅 Taroko Yan Hai Bo Villa](https://maps.app.goo.gl/i9LtATgvPCJi6eez6) $223  
+- [煙波花蓮太魯閣 沁海館 Lakeshore Hotel Hualien Taroko](https://maps.app.goo.gl/CRSURxhv953zv47j8) ~$283  
+  Including Dinner [Menu](https://taroko.lakeshore.com.tw/wp-content/uploads/sites/145/2023/09/2023Q4%E5%B1%B1%E9%87%8E%E9%87%91%E9%A5%8C-%E8%8A%B1%E5%A4%AA%E8%B1%AA%E9%A5%97_compressed-%E5%B7%B2%E8%9E%8D%E5%90%88.pdf)  
 
 ## DAY 1 (02/12 Sat.)  
 
