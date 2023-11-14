@@ -1,7 +1,7 @@
 ## DAY 0 (01/12 Fri.)  
 Lease car and go to Taroko on the day Vanessa gets to Taiwan  
 Need to book hotel in Taroko for this Day 0 plan  
-Accomadation options: 
+#### Accomadation options: 
 - [太魯閣研海泊渡假別墅 Taroko Yan Hai Bo Villa](https://maps.app.goo.gl/i9LtATgvPCJi6eez6)$223  
 - [煙波花蓮太魯閣 沁海館 Lakeshore Hotel Hualien Taroko](https://maps.app.goo.gl/CRSURxhv953zv47j8)$280  
 
