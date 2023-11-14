@@ -14,6 +14,9 @@ Can park at [Changchun Shrine Parking](https://www.google.com/maps/place/Changch
 - [Changuang Temple 禪光寺](https://www.google.com/maps/place/Changuang+Temple/@24.159502,121.6033704,16.75z/data=!4m6!3m5!1s0x3468828d2c063039:0x7c9083300f9d0611!8m2!3d24.159292!4d121.6058535!16s%2Fg%2F1td406t3?entry=ttu)  
 - [_Buluowan Terrace 布洛灣吊橋(山月吊橋)_](https://www.google.com/maps/place/Buluowan+Terrace/@24.1734784,121.5659985,16.5z/data=!4m14!1m7!3m6!1s0x346882845fc2e7ef:0xddd9fd85e0b0aa31!2sTaroko+National+Park!8m2!3d24.1939246!4d121.4906668!16zL20vMDI1YzNs!3m5!1s0x34688306679bce5b:0x776edb282da5ca81!8m2!3d24.1730194!4d121.5699615!16s%2Fg%2F12j86mg1_?entry=ttu)  _Sencond furthest attraction_  
 - [Tunnel of Nine Turns 九曲洞](https://www.google.com/maps/place/Tunnel+of+Nine+Turns/@24.1716207,121.5261612,15.75z/data=!4m14!1m7!3m6!1s0x346882845fc2e7ef:0xddd9fd85e0b0aa31!2sTaroko+National+Park!8m2!3d24.1939246!4d121.4906668!16zL20vMDI1YzNs!3m5!1s0x3468849b7644de1f:0x4fa424dd84f551ac!8m2!3d24.1717158!4d121.5291839!16s%2Fg%2F1tf_qm4b?entry=ttu) _Furthest attraction from parking, have to access via bus_  
+  Bus 302: 21 mins, 4 stops, 30 mins interval  
+  Bus 310: 26 mins, 5 stops, 1 hour interval  
+
 
 📤Depart from Taroko Park at **5PM**  
 🚗 Taroko Park -> Farm: 2.5 hours  
