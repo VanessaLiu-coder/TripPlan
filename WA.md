@@ -1,6 +1,5 @@
 ## DAY 1 （2月17星期六）  
 前往Fremantle集市逛吃  
-交通：[搭观光船](https://www.tripadvisor.com.au/AttractionProductReview-g255103-d11448853-One_way_or_Return_Sightseeing_Cruise_between_Perth_and_Fremantle-Perth_Greater_Per.html) 11:15am-12:30pm $45pp **需预订**  
 #### 游览路线：
 - [Round House](https://maps.app.goo.gl/EfECKzSSj5YpQCxH7) [古老监狱建筑 圆屋](https://you.ctrip.com/sight/fremantle813/1951904.html#ctm_ref=www_hp_bs_lst)  
 - [Esplanade Park](https://maps.app.goo.gl/pngzrjKBcxAmnfkM9) 沿海散步
