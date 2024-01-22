@@ -9,7 +9,7 @@
 
 交通：[Train Station](https://maps.app.goo.gl/hr5Gg1Px9mwCoJGy8) 沿海火车回perth，最晚9:30PM  
 
-#### 可选
+#### 可选：
 - [Escape Hunt - Escape Room Perth](https://maps.app.goo.gl/PmydFB2PJiRMnA2Z6)  [密室逃脱](https://escapehunt.com/au/perth/)  **需预订**  8点关门  
 
 ## DAY 2 （2月18星期日）  
@@ -58,7 +58,7 @@ Rottnest Island [鼠岛](https://you.ctrip.com/sight/rottnestisland16918/25729.h
 - 20 分钟车程到Abany
 
 ## DAY 7 （2月23星期五）  
-4.5小时回程 
+- 4.5小时回Perth  
 
 - 车程距离Perth40分钟  
   [Bells Rapids Park](https://maps.app.goo.gl/s7WSwwic7B7sahi88) 有水的野生公园  
