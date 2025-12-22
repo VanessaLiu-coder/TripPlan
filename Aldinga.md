@@ -11,7 +11,10 @@
   20 mins drive.
   
 - [Onkaparinga Beach](https://maps.app.goo.gl/G5SAtyD5QMhq4AMA8)  
-  20 mins drive.
+  20 mins drive.  
+
+- [Dog Beach](https://maps.app.goo.gl/kr3hYYdYZN92nAje7)  
+  15 mins drive.  
 
 ### Food and Grocery
 - [Pearl](https://maps.app.goo.gl/zGmGuu353DC7R3Ef7)  
