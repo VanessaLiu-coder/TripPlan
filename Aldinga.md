@@ -15,9 +15,9 @@
 
 ### Food and Grocery
 - [Pearl](https://maps.app.goo.gl/zGmGuu353DC7R3Ef7)  
-  Need booking - either Dinner on Sat, or Lunch on Sun.
+  **Book？** Watching Sunset 7:15PM Saturday  
 
-- [The Little Rickshaw](https://maps.app.goo.gl/SJyoLgj8pGrxxYGh7) ~$100pp
-  Need booking - Only 4:45pm Saturday available
+- [The Little Rickshaw](https://maps.app.goo.gl/SJyoLgj8pGrxxYGh7) ~$100pp  
+  **Booked** 5PM Monday
 
   
